@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+    background-color: #00FF57;
+}
+
+header p{
+    text-align: left;
+    background-color: #8000FF;
+    color: black;
+}
+
+img{
+    height: 300px;
+    width: 500px;
+    background-color: #00FF57;
+}
+footer p{
+    text-align: left;
+    background-color: #8000FF;
+    color: black;
+}
+table,td{
+    border: 1px solid red;
+}
